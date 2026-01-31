@@ -1,6 +1,6 @@
 // Azure Data Factory Practice 
 
-https://github.com/atulkamble/Azure-Data-Factory
+(https://github.com/krushna8767/azure-data-factory)
 
 1) SQL Server | size low | Azure Data Studio | Account Sign in | Query | Endpoint public 
 Database Server laogin details 
